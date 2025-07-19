@@ -4,17 +4,12 @@ A simple and elegant digital clock made using HTML, CSS, and JavaScript. It disp
 Features:
 
     Displays hours, minutes, and seconds
-
     100% responsive design
-
     Real-time updates
-
     Clean and modern UI
 
 How to Run:
 
     Download or clone the repository
-
     Open index.html in any web browser
-
     Done! Your digital clock is live.
